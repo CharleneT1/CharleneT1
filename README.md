@@ -26,6 +26,7 @@ and IT, including hands-on cybersecurity work.
 
 - 🥇 1st Place — CyberEdu4Teens Hackathon (Google.org & SnT, 2025)
 - 📜 CompTIA Security+ certified
+- 🎯 TryHackMe: Top 5%, 100+ rooms completed
 
 #### 🛠️ Tech & Tools
 
@@ -44,4 +45,5 @@ English (Professional) · Mandarin (Native) · French (A2) · Korean (B1)
 #### 📫 Let's connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/charlenetsai)
+- 🎯 [TryHackMe](https://tryhackme.com/p/ch4r0)
 - 📧 charlenetsai66@gmail.com
