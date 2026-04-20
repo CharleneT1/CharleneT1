@@ -5,8 +5,8 @@ between the University of Luxembourg and the University of Southern Brittany.
 Graduating September 2026. Based in France, originally from Taiwan.
 
 I work at the intersection of **application security**, **smart contract security**, 
-and **AI/ML security** — with 3+ years of prior experience as a software developer 
-and security engineer.
+and **AI/ML security** — with 3+ years of prior experience in software development 
+and IT, including hands-on cybersecurity work.
 
 ---
 
@@ -17,6 +17,8 @@ and security engineer.
   OWASP SC Top 10, and STRIDE threat modeling
 - 📄 Co-authored a paper on ML-based intrusion detection for UAV networks, 
   accepted at **HiPEAC 2026**
+- 🌱 Leveling up in smart contract auditing via Ethernaut, Foundry, and 
+  Damn Vulnerable DeFi
 - 🎯 Open to full-time roles in security engineering, penetration testing, 
   or application security (from Sept 2026)
 
