@@ -26,7 +26,6 @@ and IT, including hands-on cybersecurity work.
 
 - 🥇 1st Place — CyberEdu4Teens Hackathon (Google.org & SnT, 2025)
 - 📜 CompTIA Security+ certified
-- 🌍 EU-funded Erasmus Mundus scholarship recipient
 
 #### 🛠️ Tech & Tools
 
