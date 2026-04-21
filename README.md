@@ -17,8 +17,7 @@ and IT, including hands-on cybersecurity work.
   OWASP SC Top 10, and STRIDE threat modeling
 - 📄 Co-authored a paper on ML-based intrusion detection for UAV networks, 
   accepted at **HiPEAC 2026**
-- 🌱 Leveling up in smart contract auditing via Ethernaut, Foundry, and 
-  Damn Vulnerable DeFi
+- 🌱 Working through Ethernaut smart contract security challenges
 - 🎯 Open to full-time roles in security engineering, penetration testing, 
   or application security (from Sept 2026)
 
