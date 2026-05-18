@@ -1,48 +1,52 @@
-### Hi, I'm Charlene 👋
+# Hi, I'm Charlene 👋
 
-Cybersecurity master's student at **CYBERUS** — a joint Erasmus Mundus program 
-between the University of Luxembourg and the University of Southern Brittany. 
-Graduating September 2026. Based in France, originally from Taiwan.
+Cybersecurity master's student at **CYBERUS** — a joint Erasmus Mundus program across France, Estonia, and Luxembourg. Graduating September 2026.
 
-I work at the intersection of **application security**, **smart contract security**, 
-and **AI/ML security** — with 3+ years of prior experience in software development 
-and IT, including hands-on cybersecurity work.
+I specialize in **security operations, incident response, and risk management** — with hands-on experience building SIEM dashboards, deploying threat intelligence platforms, and conducting security assessments using frameworks like ISO 27001, NIST, and EBIOS RM.
+
+## 🔭 Currently
+
+* 🛡️ **Application Security Research Intern** @ University of Luxembourg  
+  OWASP-based security audits, threat modeling (STRIDE, DREAD, PASTA), CI/CD security automation, secure SDLC implementation
+
+* 📊 **Security Operations Projects**  
+  Building incident response toolkits, SOC automation scripts, and threat intelligence workflows
+
+* 📄 **Academic Research**  
+  Co-authored paper on ML-based intrusion detection for UAV networks (accepted at HiPEAC 2026)
+
+* 🎯 **Open to traineeships** in security operations, incident response, or cybersecurity governance (October 2026)
+
+## 🏆 Highlights
+
+* 🥇 **1st Place** — CyberEdu4Teens Hackathon (Google.org & SnT, 2025)
+* 🏛️ **CIRCL Room 42** — Cybersecurity incident simulation at Luxembourg's national CSIRT
+* 📜 **CompTIA Security+ certified**
+* 🎯 **TryHackMe**: Top 5%, 117+ rooms completed (SOC, SOAR, forensics, threat hunting)
+* 🛡️ **NATO CCDCOE collaboration** — TalTech winter school on incident management and threat intelligence
+
+## 🛠️ Tech & Tools
+
+**Security Operations** · Splunk · Kibana/ELK Stack · Microsoft Sentinel · MISP · Log Analysis · SOAR Automation
+
+**Incident Response & Forensics** · Wireshark · Metasploit · Burp Suite · Ghidra · IOC Analysis · Malware Analysis
+
+**Risk & Governance** · ISO 27001 · NIST SP 800-30 · EBIOS RM · GDPR · NIS Directive
+
+**Development & Automation** · Python · PowerShell · Bash · GitHub Actions · Docker · Azure
+
+**Security Tools** · OWASP ZAP · SonarQube · Nmap · TCPDump · Active Directory
+
+## 🌐 Languages
+
+**English** (Professional) · **Mandarin** (Native) · **French** (A2) · **Korean** (B1)
+
+## 📫 Let's Connect
+
+* 💼 [LinkedIn](https://linkedin.com/in/charlenetsai)
+* 🎯 [TryHackMe](https://tryhackme.com/p/ch4r0)
+* 📧 [charlenetsai66@gmail.com](mailto:charlenetsai66@gmail.com)
 
 ---
 
-#### 🔭 Currently
-
-- 🛡️ **Blockchain Security Research Intern** @ Blockchain Academy Luxembourg — 
-  smart contract & DApp audits using Slither, Aderyn, Foundry fuzzing, 
-  OWASP SC Top 10, and STRIDE threat modeling
-- 📄 Co-authored a paper on ML-based intrusion detection for UAV networks, 
-  accepted at **HiPEAC 2026**
-- 🌱 Working through Ethernaut smart contract security challenges
-- 🎯 Open to full-time roles in security engineering, penetration testing, 
-  or application security (from Sept 2026)
-
-#### 🏆 Highlights
-
-- 🥇 1st Place — CyberEdu4Teens Hackathon (Google.org & SnT, 2025)
-- 📜 CompTIA Security+ certified
-- 🎯 TryHackMe: Top 5%, 100+ rooms completed
-
-#### 🛠️ Tech & Tools
-
-**Languages** · Python · Java · C/C++ · SQL  
-**Security** · Slither · Aderyn · Foundry · OWASP ZAP · SonarQube · MISP · Soot  
-**ML** · PyTorch · TensorFlow  
-**Cloud & Infra** · Azure · Docker · Linux  
-**Frameworks** · ISO 27001 · NIST · GDPR · EU AI Act · EBIOS RM
-
-#### 🌐 Languages
-
-English (Professional) · Mandarin (Native) · French (A2) · Korean (B1)
-
----
-
-#### 📫 Let's connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/charlenetsai)
-- 🎯 [TryHackMe](https://tryhackme.com/p/ch4r0)
-- 📧 charlenetsai66@gmail.com
+⚡ *Building security operations tools and incident response capabilities for EU institutions*
