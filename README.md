@@ -1,47 +1,13 @@
-# Hi, I'm Charlene 👋
+# Hi, I'm Charlene (Chin-Ya Tsai) 👋
 
-Cybersecurity master's student at **CYBERUS** — a joint Erasmus Mundus program across France, Estonia, and Luxembourg. Graduating September 2026.
+**Application Security & DevSecOps** | Security built in, organized, and made to hold up.
 
-I specialize in **security operations, incident response, and risk management** — with hands-on experience building SIEM dashboards, deploying threat intelligence platforms, and conducting security assessments using frameworks like ISO 27001, NIST, and EBIOS RM.
+I find where things break for fun (escape rooms, scavenger hunts, software) and turn that
+into security that ships. MSc Cybersecurity across three countries (Erasmus Mundus CYBERUS),
+4 years as a .NET developer, and hands-on AppSec from threat modeling to CI/CD security gates.
 
-## 🔭 Currently
-
-* 🛡️ **Application Security Research Intern** @ University of Luxembourg  
-  OWASP-based security audits, threat modeling (STRIDE, DREAD, PASTA), CI/CD security automation, secure SDLC implementation
-
-* 📊 **Security Operations Projects**  
-  Building incident response toolkits, SOC automation scripts, and threat intelligence workflows
-
-* 📄 **Academic Research**  
-  Co-authored paper on ML-based intrusion detection for UAV networks (accepted at HiPEAC 2026)
-
-* 🎯 **Open to traineeships** in security operations, incident response, or cybersecurity governance (October 2026)
-
-## 🏆 Highlights
-
-* 🥇 **1st Place** — CyberEdu4Teens Hackathon (Google.org & SnT, 2025)
-* 🏛️ **CIRCL Room 42** — Cybersecurity incident simulation at Luxembourg's national CSIRT
-* 📜 **CompTIA Security+ certified**
-* 🎯 **TryHackMe**: Top 5%, 117+ rooms completed (SOC, SOAR, forensics, threat hunting)
-* 🛡️ **NATO CCDCOE collaboration** — TalTech winter school on incident management and threat intelligence
-
-## 🛠️ Tech & Tools
-
-**Security Operations** · Splunk · Kibana/ELK Stack · Microsoft Sentinel · MISP · Log Analysis · SOAR Automation
-
-**Incident Response & Forensics** · Wireshark · Metasploit · Burp Suite · Ghidra · IOC Analysis · Malware Analysis
-
-**Risk & Governance** · ISO 27001 · NIST SP 800-30 · EBIOS RM · GDPR · NIS Directive
-
-**Development & Automation** · Python · PowerShell · Bash · GitHub Actions · Docker · Azure
-
-**Security Tools** · OWASP ZAP · SonarQube · Nmap · TCPDump · Active Directory
-
-## 🌐 Languages
-
-**English** (Professional) · **Mandarin** (Native) · **French** (A2) · **Korean** (B1)
-
-## 📫 Let's Connect
+🔭 Finishing my CYBERUS thesis on application security for decentralized systems
+🌍 Looking for a junior/mid **AppSec or DevSecOps** role in the EU (English-working, open to relocation)
 
 * 💼 [LinkedIn](https://linkedin.com/in/charlenetsai)
 * 🎯 [TryHackMe](https://tryhackme.com/p/ch4r0)
@@ -49,4 +15,25 @@ I specialize in **security operations, incident response, and risk management** 
 
 ---
 
-⚡ *Building security operations tools and incident response capabilities for EU institutions*
+### What I do
+
+- **Threat modeling** — STRIDE and LINDDUN GO across smart contract and dApp architectures
+- **Software supply-chain security** — secret scanning, dependency CVE blocking, SHA-pinned actions, lockfile gates
+- **CI/CD security pipelines** — built a 9-stage automated security gate adopted as an org-wide deployment requirement
+- **Secure SDLC & code review** — 8-phase secure SDLC (OWASP, SCSVS), 4 assessments, 190+ documented findings driven to remediation
+
+### Tech I work with
+
+`C# / .NET` `TypeScript` `Node` `React` `Solidity`
+`GitHub Actions` `Docker` `Kubernetes` `Terraform`
+`OWASP (Top 10 / ASVS / SAMM)` `SAST / DAST / SCA` `STRIDE` `LINDDUN`
+`NIS2` `Cyber Resilience Act` `Secure SDLC`
+
+### Currently leveling up
+
+Python for security tooling, and going deeper on the cloud + container + IaC stack
+(Azure, Kubernetes, Terraform) to round out the DevSecOps toolkit.
+
+---
+
+> _Curious how something works, until I find where it breaks._
