@@ -24,9 +24,9 @@ into security that ships. MSc Cybersecurity across three countries (Erasmus Mund
 
 ### Tech I work with
 
-`C# / .NET` `TypeScript` `Node` `React` `Solidity`
-`GitHub Actions` `Docker` `Kubernetes` `Terraform`
-`OWASP (Top 10 / ASVS / SAMM)` `SAST / DAST / SCA` `STRIDE` `LINDDUN`
+`C# / .NET` `TypeScript` `Node` `React` `Solidity` \
+`GitHub Actions` `Docker` `Kubernetes` `Terraform` \
+`OWASP (Top 10 / ASVS / SAMM)` `SAST / DAST / SCA` `STRIDE` `LINDDUN` \
 `NIS2` `Cyber Resilience Act` `Secure SDLC`
 
 ### Currently leveling up
