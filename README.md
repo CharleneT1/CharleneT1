@@ -6,7 +6,7 @@ I find where things break for fun (escape rooms, scavenger hunts, software) and 
 into security that ships. MSc Cybersecurity across three countries (Erasmus Mundus CYBERUS),
 4 years as a .NET developer, and hands-on AppSec from threat modeling to CI/CD security gates.
 
-🔭 Finishing my CYBERUS thesis on application security for decentralized systems
+🔭 Finishing my CYBERUS thesis on application security for decentralized systems \
 🌍 Looking for a junior/mid **AppSec or DevSecOps** role in the EU (English-working, open to relocation)
 
 * 💼 [LinkedIn](https://linkedin.com/in/charlenetsai)
@@ -31,7 +31,7 @@ into security that ships. MSc Cybersecurity across three countries (Erasmus Mund
 
 ### Currently leveling up
 
-Going deeper on the cloud + container + IaC stack
+Going deeper on the cloud + container + IaC stack \
 (Azure, Kubernetes, Terraform) to round out the DevSecOps toolkit.
 
 ---
